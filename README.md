@@ -1,4 +1,4 @@
-# quicksend
+# quicksend-lan
 
 Fast LAN file transfer between two Macs (or any machines). Multithreaded parallel chunked uploads over HTTP — no dependencies, pure Python stdlib.
 
